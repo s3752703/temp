@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dll.c
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\nguyenhh\source\repos\dll\Debug\dll.lib and object C:\Users\nguyenhh\source\repos\dll\Debug\dll.exp
+  dll.vcxproj -> C:\Users\nguyenhh\source\repos\dll\Debug\dll.dll
